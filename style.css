@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: auto;
+  overflow: hidden;
+  padding-top: 5rem;
+  max-width: 200px;
+}
+
+.item-div {
+  border: 1px solid #ccc;
+  padding: 3rem 1rem;
+  box-sizing: border-box;
+}
+
+h1, h3 {
+  text-align: center;
+  padding: .3rem;
+}
+
+li {
+  margin-top: 1.5rem;
+  background: #ccc;
+  padding: 5px;
+  list-style: none;
+}
